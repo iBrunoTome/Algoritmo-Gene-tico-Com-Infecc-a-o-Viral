@@ -1,0 +1,58 @@
+MELHOR 50
+
+FITNESS = 9387.454245499997
+		maxPopulacao = 2000;
+		Integer geracaoAtual = 0;
+		// Máximo de gerações
+		Integer maxGeracoes = 200;
+		// Cruza 1/5 da população
+		Integer maxCruzamentos = 5;
+		// Tamanho inicial da população de cromossomos
+		Integer tamPopulacao = 500;
+		// Tamanho da população de vírus
+		Integer tamPopulacaoVirus = (tamPopulacao / 8);
+		// Vírus de um 1/8 do tamanho da rota do cromossomo
+		Integer tamVirus = 8;
+		// Porcentagem de cromossomos infectados
+		Integer porcentagemInfectados = 8;
+============================================================================
+
+MELHOR 100
+
+FITNESS = 28393.304273200003
+
+		maxPopulacao = 2000;
+		Integer geracaoAtual = 0;
+		// Máximo de gerações
+		Integer maxGeracoes = 200;
+		// Cruza 1/5 da população
+		Integer maxCruzamentos = 5;
+		// Tamanho inicial da população de cromossomos
+		Integer tamPopulacao = 500;
+		// Tamanho da população de vírus
+		Integer tamPopulacaoVirus = (tamPopulacao / 8);
+		// Vírus de um 1/8 do tamanho da rota do cromossomo
+		Integer tamVirus = 8;
+		// Porcentagem de cromossomos infectados
+		Integer porcentagemInfectados = 8;
+
+============================================================================
+
+MELHOR 200
+
+FITNESS = 74814.49965440003
+
+		maxPopulacao = 2000;
+		Integer geracaoAtual = 0;
+		// Máximo de gerações
+		Integer maxGeracoes = 200;
+		// Cruza 1/5 da população
+		Integer maxCruzamentos = 5;
+		// Tamanho inicial da população de cromossomos
+		Integer tamPopulacao = 500;
+		// Tamanho da população de vírus
+		Integer tamPopulacaoVirus = (tamPopulacao / 8);
+		// Vírus de um 1/8 do tamanho da rota do cromossomo
+		Integer tamVirus = 8;
+		// Porcentagem de cromossomos infectados
+		Integer porcentagemInfectados = 8;
